@@ -1,0 +1,86 @@
+	<html>
+    <head>
+        <meta charset="utf-8" />
+        <title color="#C0C0C0">tourisme marrakech</title>
+    </head>
+    <body><img src="téléchargement.png"; align="left" >
+        <header><fieldset style="background-color:gray;">
+            <h1 align="center" ><font size=100>Marrakech</font></h1>
+      <legend ><font color="#000080"><h2><B>La ville touristique</B></h2></font></legend>  
+        </fieldset align="left"></header>
+        <section>
+            <aside>
+                <h1>Quelque information sur cette ville</h1>
+                <fieldset style="background-color:silver;" align="left" >
+<p align="left"><b>Marrakech </b> est une ville située dans le centre du Maroc au pied des montagnes de l'Atlas. Marrakech est surnommée « la ville rouge »ou la « ville ocre » en référence à la couleur rouge d'une grande partie de ses immeubles et ses maisons
+. Par sa population, la ville est la troisième agglomération du pays, à égalité avec sa rivale historique, Fès.</p><img src="images.jpg"; align="right";><p align="left"> Cité impériale, au même titre que Fès, Rabat et Meknès, Marrakech fut capitale du Maroc pendant près de 350 ans, sous les dynasties almoravide (xie – xiie siècles), almohade (xiie – xiiie siècles), saâdienne (xvie – xviie siècles), ainsi que sous le règne de Mohammed ben Abdallah de l'actuelle dynastie alaouite (régnant de 1757 à 1790).
+ Marrakech abrite une vaste médina de 600 hectares, la plus peuplée d'Afrique du nord, classée patrimoine mondial de l'humanité par l'UNESCO. Grâce à la vitalité de sa médina, vieille de 900 ans, ses infrastructures hôtelières de classe mondiale et son climat ensoleillé, Marrakech s'est imposée comme la capitale incontestée du tourisme au Maroc. Desservie par le deuxième aéroport du pays en termes de trafic, l'aéroport Marrakech - Ménara, la ville a accueilli en 2019 près de 3 millions de visiteurs.</p>
+            </fieldset></aside>
+              <fieldset>
+                  <legend><h2><B>Des lieux a visiter </B></h2></legend> 
+              <p align="center">Marrakech est une ville unique en son genre qui se distingue totalement du reste. Visiter Marrakech est une expérience qui stimulera tous vos sens : ses couleurs, ses saveurs et ses odeurs vous marqueront dès votre arrivée et vous accompagneront des semaines après votre retour.</p></br>
+<table border=2 cellpadding=10 >
+	<caption>Les lieux</caption>
+	<tr>
+		<th style="background-color:pink;">La place</th>
+		<th style="background-color:pink;">description</th>
+                 <th style="background-color:pink;">Image explicatif</th>
+	</tr>
+      <tr>
+           <td style="background-color:pink;"><p><font color="#800000"><b>la koutoubia</b></br></td>
+           <td><p>Elle est la plus grande mosquée de la ville. Son architecture et son décor ascétique reflètent l'art des Almohades.</p>
+            <td><img src="alkotobia.jpg"; > </td>
+     </tr>
+    <tr>
+     <td style="background-color:pink;"><p><font color="#800000"><b>La place Jamaa el Fna dans la médina de Marrakech</b></font></p></br></td>	
+<td><p>Est une célèbre place publique au sud-ouest de la médina de Marrakech au Maroc. Ce haut-lieu traditionnel, populaire et animé notamment la nuit attire plus d'un million de visiteurs chaque année. « L'espace culturel de la place Jemaa el-Fna » est inscrit patrimoine culturel immatériel depuis 2008 (proclamation en 2001) et au patrimoine mondial depuis 1985 par l'Unesco.</p></td>
+            <td><img src="mar.jpg"; align="right" > </td></tr>
+      <tr>
+           <td style="background-color:pink;"><p><font color="#800000"><b>Oukaïmden</b></br></td>
+           <td><p>Oukaïmden est la principale station de ski du Maroc composée d'une vingtaine de pistes de tous niveaux. Elle se situe à environ 80 km de Marrakech dans le Haut Atlas, sur la commune éponyme qui se situe dans la Province d'Al Haouz. Explorez cette région d'Oukaimden grâce à notre excursion privée avec un véhicule privé et un chauffeur professionnel et bien expérimenté qui sera entièrement à votre disposition pour découvrir cette région à votre rythme.</p>
+            <td><img src="oukaimden.jpg"; > </td>
+     </tr>
+       <tr>
+           <td style="background-color:pink;"><p><font color="#800000"><b>Agafay</b></br></td>
+           <td><p>Le désert d’Agafay se situe à une trentaine de kilomètres au sud de Marrakech et s’étend sur plusieurs centaines d’hectares. Ce désert, pourtant rocailleux peut être assimilé à un désert de sable. En effet, ses dunes blanches se détachent du paysage et s’apparentent aux dunes du Sahara.</p>
+            <td><img src="agafay.jpg"; > </td>
+     </tr>
+       <tr>
+           <td style="background-color:pink;"><p><font color="#800000"><b>Imlil</b></br></td>
+           <td><p>Imlil est un village se situe au départ du Marrakech à 70 Km C'est vraiment un magnifique lieu pour les gens qui aiment de faire les aventures aux mantagnes</p>
+            <td><img src="imlil.jpg"; > </td>
+     </tr>
+       </fieldset>
+      </section>
+                <fieldset><table border=2>
+	<caption>les hôtels</caption>
+	<tr>
+		<th style="background-color:red;" >hôtel</th>
+		<th style="background-color:red;" >information</th>
+	</tr>
+	<tr>
+		<td style="background-color:red;"><font color="#800000"><b>ALmamounia</b></br></td>
+		<td >Situé sur un ancien domaine royal du XIIe siècle, cet hôtel raffiné se trouve à 14 minutes à pied de la place du marché animée Jemaa el-Fna. Il est également à 6 minutes de la célèbre mosquée Koutoubia et à 6 km de l'aéroport de Marrakech-Ménara.</td>
+	</tr>
+         <tr>
+		<td style="background-color:red;"><font color="#800000"><b>La Maison Arabe</b></br></td>
+		<td ><p>La Maison Arabe est l'hôtel préféré des voyageurs visitant Marrakech. Offrant un grand confort et un excellent rapport qualité-prix, il propose un cadre un de luxe et un large éventail de services conçus pour les voyageurs comme vous</p></td>
+	</tr>
+         <tr>
+		<td style="background-color:red;"><font color="#800000"><b>Riad Jnane Imlil</b></br></td>
+		<td ><p>Centre Imlil، Imlil 42152</td>
+	</tr>
+</table></fieldset>
+
+        <footer><fieldset><img src="capture.png"; align="left" >
+             <article  align="right">                
+                <h1 align="center">page similaires: </h1>
+                <p align="center">A votre sirvice 24h/24, 7j/7 et pour plus d'information on vous propose les site suivants </p>
+                 <p> </p></br>
+           </article>
+            <p>Notre service- Tous droits réservés<br />
+            <a href="">contacter nous</a></p>
+            
+       </fieldset> </footer>
+    </body>
+</html>
